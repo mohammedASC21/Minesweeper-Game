@@ -7,7 +7,6 @@ Welcome to Minesweeper! This is a classic logic-based game built in Java with a 
 - Click a tile to reveal what’s underneath.
 - Numbers show how many mines are around a tile.
 - Use logic to avoid the mines!
-- Right-click to flag a tile you think has a mine (if right-click is supported in your version).
 - The game ends when all non-mine tiles are revealed — or when you hit a mine.
   
 
